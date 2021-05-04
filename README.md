@@ -1,15 +1,13 @@
-# An open-source project for creating online courses, built by P2PU
-Course-in-a-Box is a free tool for building and publishing online courses — no prior coding experience required. 
+# Title Goes Here
+Lorem ipsum dolor sit amet, ferri qualisque ad mea, illum exerci intellegat mel ne, pro at aliquid denique evertitur. Pro nostro docendi deserunt ei. Postea mollis an eum, ut sed dicant aliquip virtute. At eos urbanitas incorrupte. Id unum erat indoctum duo, in eos noster invenire.
 
-To create your own course, simply fork this repository and delete the CNAME file. Detailed documentation is available at [course-in-a-box.p2pu.org](https://course-in-a-box.p2pu.org).
+Adolescens mediocritatem est ex, et vel errem dicunt cetero. Ut solet dolore legere usu. Per ut quem decore. Aperiri alienum dissentiunt id pro, ea iriure apeirian erroribus mel. An sea dolore impetus oportere, verear utroque ea sit.
 
-To make changes to the template itself, a good place to start is the [`_layouts`](/_layouts), [`_includes`](/_includes) and [`css`](/css) directories. These directories contain all the layout and style files used.
+Per nostro reprimique ullamcorper eu, eu vis unum soleat luptatum, duo et meis probatus omittantur. Duo odio movet tritani id. Ut pro vero pericula. Ea sonet volumus periculis mea, cu dolores blandit similique vel. Temporibus repudiandae his ei, magna delenit splendide nec ei, ad has consulatu aliquando delicatissimi. Has eu saepe accumsan omnesque, ut utinam expetenda vim.
 
-Questions? Ask on P2PU's [Community Forum](https://community.p2pu.org/c/tech/course-in-a-box/78).
+In tritani recteque moderatius mea, sea altera nostrum in. Meliore tincidunt nec ex, in minimum lucilius accusamus qui. Numquam persecuti te vix, qui urbanitas incorrupte ad, pro ex utinam nostrum scribentur. Qui et dicta novum, vel laboramus scriptorem ne, ut mea ferri facilisis. Sea error aliquando definiebas ne.
 
-# Running locally
-- [install docker](https://docs.docker.com/engine/install/) 
-- Run ```docker run -i -t --rm -u 1000:1000 -p 4000:4000 -v `pwd`:/opt/app -v `pwd`/.bundler/:/opt/bundler -e BUNDLE_PATH=~/opt/bundler -w /opt/app ruby:2.7 bash -c "bundle install && bundle exec jekyll serve --watch -H 0.0.0.0"```
+Est unum erat mnesarchum cu, eu sed malis invenire definitiones, sed summo nominati cu. Qui in habeo mollis. An vis quot melius appareat, no suas eruditi mel. Sit zril sententiae ad. Tale nonumes pro cu, vel te aperiri referrentur. Quas vocibus imperdiet ne quo.
 
 ---
 Course-in-a-Box was built by [Peer 2 Peer University](https://www.p2pu.org) using the [P2PU Jekyll course template](https://github.com/p2pu/jekyll-course-template) and shared under an MIT License.
